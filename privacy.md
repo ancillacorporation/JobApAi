@@ -54,4 +54,4 @@ The Extension is not directed to children under the age of 13, and we do not kno
 
 ## Contact
 
-If you have questions or requests regarding this policy, contact: {{CONTACT_EMAIL}}
+If you have questions or requests regarding this policy, contact: clientservice@ancillaco.com
