@@ -2,11 +2,11 @@
 
 Last updated: september 26 2025
 
-This Privacy Policy explains how AutoApAI (the “Extension”) processes information to provide its features. By using the Extension, you agree to this policy.
+This Privacy Policy explains how JobApAi (the “Extension”) processes information to provide its features. By using the Extension, you agree to this policy.
 
 ## What the Extension does
 
-AutoApAI helps you complete job applications by generating suggestions based on:
+JobApAi helps you complete job applications by generating suggestions based on:
 
 - Text you provide (e.g., CV/resume, job description, application form text)
 - Optional account credentials if you choose to sign up/sign in (email/password)
